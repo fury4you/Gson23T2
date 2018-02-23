@@ -1,0 +1,237 @@
+
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/Z0u-4xToTGpz97TxsSoOjATsw_4\"",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 23,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/eIFOM8namGVQ6ZKdxBkTBm-YjKk\"",
+      "id": "UEwzM2x2YWJmc3Mxd0RlUU12ZWdnX09aUWZhWGNicU9RaC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2016-09-10T05:38:02.000Z",
+        "channelId": "UCBw4b26KZrBvHRPBjOCw6UQ",
+        "title": "[Khóa học lập trình Android Cơ bản] - Bài 1: Giới thiệu Android | HowKteam",
+        "description": "[Khóa học lập trình Android Cơ bản] - Bài 1: Giới thiệu Android | HowKteam\n\nTập hợp khóa học lập trình cơ bản đến nâng cao.\nTham gia group để cập nhật thêm thông tin cũng như tham gia khóa học online miễn phí. \n\nhttps://goo.gl/8T2krI\n\nNếu các bạn thấy hay thì hãy đăng ký theo dõi kênh, like, share cho mọi người cùng tham gia nhé.\nMuốn ủng hộ mình các bạn có thể nhấn vào quảng cáo hiện lên và load xong để mình được ít tiền duy trì nhé.\nCảm ơn mọi người.\n\nDanh sách phát:\nhttps://www.youtube.com/channel/UCBw4b26KZrBvHRPBjOCw6UQ/playlists\n\nLập trình C#:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK\n\nLập trình Android:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nLập trình C++:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM\n\nBài trước:\n \nBài sau:\nhttps://www.youtube.com/watch?v=80ayldnOsSI&index=2&list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nwebsite: http://www.howkteam.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rcH4NbngPEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rcH4NbngPEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rcH4NbngPEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rcH4NbngPEk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rcH4NbngPEk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "K team",
+        "playlistId": "PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rcH4NbngPEk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/XtWvmPdrSfQmBBbHuLIoltRUIFI\"",
+      "id": "UEwzM2x2YWJmc3Mxd0RlUU12ZWdnX09aUWZhWGNicU9RaC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2016-09-11T12:48:26.000Z",
+        "channelId": "UCBw4b26KZrBvHRPBjOCw6UQ",
+        "title": "[Khóa học lập trình Android Cơ bản] - Bài 2: Chức năng cơ bản của Android Studio | HowKteam",
+        "description": "[Khóa học lập trình Android Cơ bản] - Bài 2: Chức năng cơ bản của Android Studio | HowKteam\n\nTập hợp khóa học lập trình cơ bản đến nâng cao.\nTham gia group để cập nhật thêm thông tin cũng như tham gia khóa học online miễn phí. \n\nhttps://goo.gl/8T2krI\n\nNếu các bạn thấy hay thì hãy đăng ký theo dõi kênh, like, share cho mọi người cùng tham gia nhé.\nMuốn ủng hộ mình các bạn có thể nhấn vào quảng cáo hiện lên và load xong để mình được ít tiền duy trì nhé.\nCảm ơn mọi người.\n\nDanh sách phát:\nhttps://www.youtube.com/channel/UCBw4b26KZrBvHRPBjOCw6UQ/playlists\n\nLập trình C#:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK\n\nLập trình Android:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nLập trình C++:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM\n\nBài trước:\nhttps://www.youtube.com/watch?v=rcH4NbngPEk&index=1&list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nBài sau:\nhttps://www.youtube.com/watch?v=QQk0PhOxMV4&index=3&list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nwebsite: http://www.howkteam.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/80ayldnOsSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/80ayldnOsSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/80ayldnOsSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/80ayldnOsSI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/80ayldnOsSI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "K team",
+        "playlistId": "PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "80ayldnOsSI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/BNmZQHJzylBbed01ploa2iSLJbo\"",
+      "id": "UEwzM2x2YWJmc3Mxd0RlUU12ZWdnX09aUWZhWGNicU9RaC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2016-09-11T16:34:19.000Z",
+        "channelId": "UCBw4b26KZrBvHRPBjOCw6UQ",
+        "title": "[Khóa học lập trình Android Cơ bản] - Bài 3: Cài đặt máy ảo Android | HowKteam",
+        "description": "[Khóa học lập trình Android Cơ bản] - Bài 3: Cài đặt máy ảo Android | HowKteam\n\nTập hợp khóa học lập trình cơ bản đến nâng cao.\nTham gia group để cập nhật thêm thông tin cũng như tham gia khóa học online miễn phí. \n\nhttps://goo.gl/8T2krI\n\nNếu các bạn thấy hay thì hãy đăng ký theo dõi kênh, like, share cho mọi người cùng tham gia nhé.\nMuốn ủng hộ mình các bạn có thể nhấn vào quảng cáo hiện lên và load xong để mình được ít tiền duy trì nhé.\nCảm ơn mọi người.\n\nDanh sách phát:\nhttps://www.youtube.com/channel/UCBw4b26KZrBvHRPBjOCw6UQ/playlists\n\nLập trình C#:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK\n\nLập trình Android:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nLập trình C++:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM\n\nBài trước:\nhttps://www.youtube.com/watch?v=80ayldnOsSI&index=2&list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nBài sau:\nhttps://www.youtube.com/watch?v=v2WKdvG2TUA&index=4&list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nwebsite: http://www.howkteam.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QQk0PhOxMV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QQk0PhOxMV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QQk0PhOxMV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QQk0PhOxMV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QQk0PhOxMV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "K team",
+        "playlistId": "PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QQk0PhOxMV4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/bd-C83-QZduAN9LUXoLa3JLgQA0\"",
+      "id": "UEwzM2x2YWJmc3Mxd0RlUU12ZWdnX09aUWZhWGNicU9RaC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2016-09-12T16:18:36.000Z",
+        "channelId": "UCBw4b26KZrBvHRPBjOCw6UQ",
+        "title": "[Khóa học lập trình Android Cơ bản] - Bài 4: Cách debug cơ bản | HowKteam",
+        "description": "[Khóa học lập trình Android Cơ bản] - Bài 4: Cách debug cơ bản | HowKteam\n\nTập hợp khóa học lập trình cơ bản đến nâng cao.\nTham gia group để cập nhật thêm thông tin cũng như tham gia khóa học online miễn phí. \n\nhttps://goo.gl/8T2krI\n\nNếu các bạn thấy hay thì hãy đăng ký theo dõi kênh, like, share cho mọi người cùng tham gia nhé.\nMuốn ủng hộ mình các bạn có thể nhấn vào quảng cáo hiện lên và load xong để mình được ít tiền duy trì nhé.\nCảm ơn mọi người.\n\nDanh sách phát:\nhttps://www.youtube.com/channel/UCBw4b26KZrBvHRPBjOCw6UQ/playlists\n\nLập trình C#:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK\n\nLập trình Android:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nLập trình C++:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM\n\nBài trước:\nhttps://www.youtube.com/watch?v=QQk0PhOxMV4&index=3&list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nBài sau:\nhttps://www.youtube.com/watch?v=2TPjqGpgPvM&index=5&list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nwebsite: http://www.howkteam.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v2WKdvG2TUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v2WKdvG2TUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v2WKdvG2TUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v2WKdvG2TUA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v2WKdvG2TUA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "K team",
+        "playlistId": "PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v2WKdvG2TUA"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"_gJQceDMxJ8gP-8T2HLXUoURK8c/GzA9JQs02LtHQ3uyiJ218i_g0Q4\"",
+      "id": "UEwzM2x2YWJmc3Mxd0RlUU12ZWdnX09aUWZhWGNicU9RaC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2016-09-13T17:11:44.000Z",
+        "channelId": "UCBw4b26KZrBvHRPBjOCw6UQ",
+        "title": "[Khóa học lập trình Android Cơ bản] - Bài 5: Các thành phần giao diện (UI) cơ bản | HowKteam",
+        "description": "[Khóa học lập trình Android Cơ bản] - Bài 5: Các thành phần giao diện (UI) cơ bản | HowKteam\n\nTập hợp khóa học lập trình cơ bản đến nâng cao.\nTham gia group để cập nhật thêm thông tin cũng như tham gia khóa học online miễn phí. \n\nhttps://goo.gl/8T2krI\n\nNếu các bạn thấy hay thì hãy đăng ký theo dõi kênh, like, share cho mọi người cùng tham gia nhé.\nMuốn ủng hộ mình các bạn có thể nhấn vào quảng cáo hiện lên và load xong để mình được ít tiền duy trì nhé.\nCảm ơn mọi người.\n\nDanh sách phát:\nhttps://www.youtube.com/channel/UCBw4b26KZrBvHRPBjOCw6UQ/playlists\n\nLập trình C#:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK\n\nLập trình Android:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nLập trình C++:\nhttps://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM\n\nBài trước:\nhttps://www.youtube.com/watch?v=v2WKdvG2TUA&index=4&list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nBài sau:\nhttps://www.youtube.com/watch?v=Y6Yw3wlQIQw&index=6&list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh\n\nwebsite: http://www.howkteam.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2TPjqGpgPvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2TPjqGpgPvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2TPjqGpgPvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2TPjqGpgPvM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2TPjqGpgPvM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "K team",
+        "playlistId": "PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2TPjqGpgPvM"
+        }
+      }
+    }
+  ]
+}
